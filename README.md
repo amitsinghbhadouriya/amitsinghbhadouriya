@@ -77,12 +77,11 @@
 
 ---
 
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsinghbhadouriya&theme=react-dark&hide_border=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsinghbhadouriya&theme=dark&hide_border=true" width="95%" />
 
 </div>
 
