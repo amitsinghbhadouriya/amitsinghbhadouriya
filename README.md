@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Amit Singh Bhadouriya
-
+ 
 **A passionate || Python Developer || Data Science & AI Enthusiast || Full-Stack Developer from India 🇮🇳**
 
 💻 I love building **web applications, data-driven projects, and AI-powered solutions** while continuously learning new technologies.
