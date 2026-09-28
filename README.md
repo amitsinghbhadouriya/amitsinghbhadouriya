@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Amit Singh Bhadouriya
+# 💫 Hi, I'm Amit Singh Bhadouriya
  
 **A passionate || Python Developer || Data Science & AI Enthusiast || Full-Stack Developer from India 🇮🇳**
 
