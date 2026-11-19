@@ -3,7 +3,7 @@
 **A passionate || Python Developer || Data Science & AI Enthusiast || Full-Stack Developer from India 🇮🇳**
   
 💻 I love building **web applications, data-driven projects, and AI-powered solutions** while continuously learning new technologies.
-
+ 
 * 🔭 **I’m currently working on:** Python, Django & Data Science projects
 * 🌱 **I’m currently learning:** Data Science, Machine Learning & Generative AI
 * 👯 **I’m looking to collaborate on:** Python, Django, Web Development, Data Science & AI projects
